@@ -38,7 +38,7 @@ const Oswaldo = {
 
 ---
 
-📫 How to reach me: e-mail juliana.mg3@gmail.com or booking a call https://calendly.com/julianagonzalez
+📫 How to reach me: e-mail oswaldoj16@gmail.com
 <!--
 **julianactrl/julianactrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
