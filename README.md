@@ -17,13 +17,12 @@ const Oswaldo = {
   code: [Javascript, HTML, CSS, SQL, GIT, Github],
   tools: [Vue, Web Components,D3js, Sass, Bootstrap, Tailwinds, Express],
   addingNewSkills: {
-              tech: "python",
               design:["Photoshop", "Figma"];
            },
   personality: {
                 i_am: "creative, team worker, proactive 
                 and a learner quickly person. 
-                Fanatic of tech as much new challenges. 
+                I Like to develop new products. 
                 I work with agile methodology and git flow."
              },
   Language: {
