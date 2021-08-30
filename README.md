@@ -1,21 +1,24 @@
-<h2> Osw16 - Web Developer></h2>
+<h2> Osw16 - Web Developer🌏 <img src="https://media0.giphy.com/media/llQMjpdCwjdrVGzz1d/giphy.gif?cid=ecf05e47boiaj7yub4bp2xel5aobyl5k0feocfb7r0h34dpn&rid=giphy.gif&ct=s" width="50"></h2>
+
+
+
+<img align='left' src="https://media1.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b76111bc8acbaefb00b8d7c9fb48ebfc2fd1a40b140ea&rid=giphy.gif&ct=g" width="230">
 <img align='right' src="https://media1.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b76111bc8acbaefb00b8d7c9fb48ebfc2fd1a40b140ea&rid=giphy.gif&ct=g" width="230">
 
-
-[![Twitter: julianactrl](https://img.shields.io/twitter/follow/julianactrl?style=social)](https://twitter.com/julianactrl)
-[![Linkedin: gonzalezjulianamicaela](https://img.shields.io/badge/-gonzalezjulianamicaela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianamicaelagonzalez/)](https://www.linkedin.com/in/gonzalezjulianamicaela/)
-[![GitHub julianactrl](https://img.shields.io/github/followers/julianactrl?label=follow&style=social)](https://github.com/julianactrl)
+[![Twitter: osw16](https://img.shields.io/twitter/follow/osw16?style=social)](https://twitter.com/Osw16)
+[![Linkedin: oswaldotrejo](https://img.shields.io/badge/-OswaldoTrejo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oswaldo-trejo/)](https://www.linkedin.com/in/oswaldo-trejo/)
+[![GitHub osw16](https://img.shields.io/github/followers/osw16?label=follow&style=social)](https://github.com/osw16)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const juli = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Node, SQL, Postgres, Mongo DB, GIT, Github],
-  tools: [React, Redux, Express, Bootstrap, Tailwinds, Sequilize, Mongoose, Sass],
+const Oswaldo = {
+  code: [Javascript, HTML, CSS, SQL, GIT, Github],
+  tools: [Vue, Web Components,D3js, Sass, Bootstrap, Tailwinds, Express],
   addingNewSkills: {
-              tech: "python";
+              tech: "python",
+              design:["Photoshop", "Figma"];
            },
   personality: {
                 i_am: "creative, team worker, proactive 
@@ -23,7 +26,10 @@ const juli = {
                 Fanatic of tech as much new challenges. 
                 I work with agile methodology and git flow."
              },
-  Replit: "https://replit.com/@julianactrl"
+  Language: {
+            English:"B1",
+            Spanish:"Native";
+            }
   
 }
 ```
