@@ -22,7 +22,7 @@ const Oswaldo = {
   personality: {
                 i_am: "creative, team worker, proactive 
                 and a learner quickly person. 
-                I Like to develop new products. 
+                I feel comfortable moving between 320px and 1920px. 
                 I work with agile methodology and git flow."
              },
   Language: {
