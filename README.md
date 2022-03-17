@@ -39,5 +39,4 @@ const Oswaldo = {
 
 ---
 
-📫 How to reach me? E-mail: oswaldoj16@gmail.com
 
