@@ -17,8 +17,8 @@
 
 ```javascript
 const Oswaldo = {
-  code: [Javascript, HTML, CSS, SQL, GIT, Github],
-  tools: [Vue, Web Components,D3js, Sass, Bootstrap, Tailwinds, Express],
+  code: [Javascript, HTML, CSS, Solidity, SQL],
+  tools: [Vue, Web Components,D3js, React, Bootstrap, Tailwinds, HardHat],
   addingNewSkills: {
               design:["Photoshop", "Figma"];
            },
