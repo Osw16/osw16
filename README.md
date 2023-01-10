@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media1.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b76111bc8acbaefb00b8d7c9fb48ebfc2fd1a40b140ea&rid=giphy.gif&ct=g" width="230">
 
-<h2>🖥[Website/Portfolio](https://blog-cosmic.vercel.app/)</h2>
+🖥[Website/Portfolio (click)](https://blog-cosmic.vercel.app/)
 
 
 [![Twitter: osw16](https://img.shields.io/twitter/follow/osw16?style=social)](https://twitter.com/Osw16)
