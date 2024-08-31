@@ -1,4 +1,4 @@
-<h2> 🌏Osw16 - Web Developer <img src="https://media0.giphy.com/media/llQMjpdCwjdrVGzz1d/giphy.gif?cid=ecf05e47boiaj7yub4bp2xel5aobyl5k0feocfb7r0h34dpn&rid=giphy.gif&ct=s" width="50"></h2>
+<h2> 🌏Osw16 - Web Developer</h2>
 
 
 
